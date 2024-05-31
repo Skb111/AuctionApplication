@@ -4,6 +4,6 @@
     {
         BidSubmitted,
         AuctionStarted,
-        AuctionStarted
+        AuctionEnded
     }
 }
